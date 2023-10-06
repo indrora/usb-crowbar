@@ -49,3 +49,9 @@ You can buy these in sticks of five from my Tindie store: https://www.tindie.com
 8. Clean with alcohol and allow to dry. 
 
 
+-- LICENSE --
+
+This work is licensed under CC-BY.
+
+I have a dream that some day, I will be able to buy these from vendors such as Palconn and Samtec as retrofits for old designs.
+If you're in that scene, hmu ;) 
