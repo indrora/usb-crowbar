@@ -1,0 +1,4 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J2,USB_C_Receptacle_USB2.0,HRO_TYPE-C-31-M-12,134.9625,-105.4,90.0,top
+R1,5.1K,R_0201_0603Metric,128.1,-106.6,0.0,top
+R2,5.1K,R_0201_0603Metric,128.1,-103.7,0.0,top
