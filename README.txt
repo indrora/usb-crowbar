@@ -48,6 +48,25 @@ You can buy these in sticks of five from my Tindie store: https://www.tindie.com
 7. Flood the structural joints on the sides with solder. It shouldn't want to lift. 
 8. Clean with alcohol and allow to dry. 
 
+-- FREQUENTLY QUESTIONED ANSWERS --
+
+Q: MiniB? MicroB?
+
+I've had a *ton* of requests for this. Unfortunately, it's not in the cards. 
+
+* The physical dimensions of a USB Type C connector are against us: It's huge!
+* There's maybe 3 total layouts for USB2 Type B (two thru-hole and one surface mount) that I've found. Most others are within 0.5mm of that in some dimension, with the pinout being the exact same for thru-hole versions. 
+* The USB C connector housing *happens* to be exactly the width of the USB Type B connector.
+
+Both Mini and Micro-B have a lot of different layouts (4/5 pin variants, thru-hole and SMT, different landing pads for the shell vs. sunk holes for the shell, etc.). This hasn't stopped one intrepid friend of mine who replaced the Micro-B connector on something by using 24ga stranded core wire and very carefully bodging the required lines. If you can make the space for the connector to cram it down, Do It! 
+
+In some cases, since the connector is on a separate board, it may well be reasonable to design a replacement board for the USB connector, as was done in the case for the PS4 Controllers. Marcus Heier has a fantastic drop-in modification for several generations of PS4 controllers that you can buy from him on Tindie: https://www.tindie.com/products/mariusheier/ps4-controller-usb-c/ -- you can see the process of installing it here: https://youtu.be/o9IACHF22yc
+
+Q: USB Type A????
+
+One of the inspirations for this project was Palconn's USB A compatible ports: http://palconn.net/products/?id=100
+
+Finding them is a bit tricky...
 
 -- LICENSE --
 
