@@ -12,7 +12,7 @@ The vast majority of right-angle board-mount USB Type B connectors have the same
 and size of the pads, body, etc. 
 
 A friend of mine was tired of the USB connectors failing on her DJ equipment after just a few years. Sometimes,
-that was juast a few shows over a few months. 
+that was just a few shows over a few months. 
 
 Skill issue on my part, I said the words "This should be easy".
 
